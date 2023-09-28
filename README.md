@@ -1,7 +1,5 @@
 # ONGConnect - Sistema de Gerenciamento para ONGs
 
-![ONGConnect Logo](link_para_o_logo.png)
-
 ## Visão Geral
 
 ONGConnect é um sistema de gerenciamento exclusivo para organizações não governamentais (ONGs). Ele oferece uma plataforma completa para ajudar as ONGs a administrar seus recursos, atividades, voluntários, doações e muito mais. O sistema é dividido em duas partes principais: uma API desenvolvida em Flask para gerenciar dados e lógica de negócios, e um front-end desenvolvido em React para proporcionar uma experiência amigável e intuitiva aos usuários.
