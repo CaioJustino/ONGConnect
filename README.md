@@ -24,7 +24,7 @@ ONGConnect é um sistema de gerenciamento exclusivo para organizações não gov
 
 - **Banco de Dados**: Utilizamos um banco de dados SQL para armazenar e gerenciar os dados da ONG.
 
-- **Criptografia de Senhas**: Senhas criptografadas no padrão md5.
+- **Criptografia de Senhas**: Senhas criptografadas no padrão sha256.
 
 - **Estilização**: Usamos CSS para criar um design limpo e intuitivo no front-end.
 
