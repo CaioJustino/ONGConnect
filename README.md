@@ -1,4 +1,4 @@
-# ONGConnect - Sistema de Gerenciamento para ONGs
+# ONGConnect
 
 ## Visão Geral
 
@@ -20,7 +20,7 @@ ONGConnect é um sistema de gerenciamento exclusivo para organizações não gov
 
 - **Back-end**: A API é desenvolvida em Flask, um framework Python para construção de aplicativos web robustos e escaláveis.
 
-- **Front-end**: O front-end é construído em React, uma biblioteca JavaScript de código aberto que permite criar interfaces de usuário interativas e responsivas.
+- **Front-end**: O front-end é construído em Vue.js, uma biblioteca JavaScript de código aberto que permite criar interfaces de usuário interativas e responsivas.
 
 - **Banco de Dados**: Utilizamos um banco de dados SQL para armazenar e gerenciar os dados da ONG.
 
@@ -46,7 +46,7 @@ git clone https://gitlab.com/ongconnect/ongconnect-software.git
 2. Navegue até a pasta do projeto.
 
 ```
-cd ONGConnect
+cd ongconnectbackend
 ```
 
 3. Configure o ambiente virtual para o back-end.
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 7. Navegue até a pasta do front-end.
 
 ```
-cd frontend
+cd ongconnectfrontend
 ```
 
 8. Instale as dependências do front-end.
@@ -97,13 +97,9 @@ flask run
 11. Inicie o servidor de desenvolvimento React (front-end).
 
 ```
-cd frontend
+cd ongconnectfrontend
 npm start
 ```
-
-## Uso
-
-Acesse o sistema ONGConnect em seu navegador no endereço `<link>` e comece a gerenciar sua ONG de forma eficaz.
 
 ## Licença
 
