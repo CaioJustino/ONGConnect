@@ -4,7 +4,7 @@ Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo so
 
 Este programa é distribuído na esperança de que seja útil, mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de COMERCIALIZAÇÃO ou de ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Consulte a Licença Pública Geral GNU para obter mais detalhes.
 
-Você deve ter recebido uma cópia da Licença Pública Geral GNU junto com este programa. Se não, consulte <https://www.gnu.org/licenses/>.
+Você deve ter recebido uma cópia da Licença Pública Geral GNU junto com este programa. Se não, consulte https://www.gnu.org/licenses/.
 
 ---------------------------------------------------------------
 
@@ -12,7 +12,7 @@ ONGConnect - Sistema de Gerenciamento de ONGs
 
 Este programa é distribuído sob a Licença Pública Geral GNU, versão 3. Veja o texto da licença acima para obter os detalhes completos.
 
-O código-fonte original deste programa está disponível em <https://gitlab.com/ongconnect/ongconnect-software.git>.
+O código-fonte original deste programa está disponível em https://github.com/CaioJustino/ONGConnect.git.
 
 ---------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Resumo dos Termos da Licença:
 
 4. Este programa é distribuído SEM GARANTIA ALGUMA, de acordo com os termos da Licença Pública Geral GNU, versão 3. Consulte a licença para obter detalhes completos.
 
-Para mais informações sobre a Licença Pública Geral GNU, visite <https://www.gnu.org/licenses/gpl-3.0.html>.
+Para mais informações sobre a Licença Pública Geral GNU, visite https://www.gnu.org/licenses/gpl-3.0.html.
