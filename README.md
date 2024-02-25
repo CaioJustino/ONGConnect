@@ -88,6 +88,10 @@ cd ongconnectfrontend
 npm run dev
 ```
 
-## Licença
+## Linguagens e Ferramentas
 
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo `LICENSE` para obter detalhes.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,javascript,nodejs,vue,sqlite" />
+  </a>
+</p>
